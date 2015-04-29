@@ -1,2 +1,2 @@
 all: 
-	g++ -std=c++11 httpserver.cpp -o wwwd
+	g++ -std=c++11 httpserv.cpp -o wwwd -lev
